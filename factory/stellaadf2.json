@@ -1,0 +1,9 @@
+{
+	"name": "stellaadf2",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f5a9a634-3a86-4b90-9798-df98c4422b03",
+		"tenantId": "84f1e4ea-8554-43e1-8709-f0b8589ea118"
+	}
+}
